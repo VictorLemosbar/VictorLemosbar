@@ -5,7 +5,7 @@
 <h2 align="left">About me</h2>
 
 
-<p align="left">💻I´m an technology enthusiast and fascinated by it transformative power<br><br>📚 Constantly learning and improving my skills<br><br>❤ Bringing passion to every project<br><br> 🚀Currently studying to become a Full-Stack Developer</p>
+<p align="left">💻I´m n technology enthusiast and fascinated by it transformative power<br><br>📚 Constantly learning and improving my skills<br><br>❤ Bringing passion to every project<br><br> 🚀Currently studying to become a Full-Stack Developer</p>
 
 ###
 
