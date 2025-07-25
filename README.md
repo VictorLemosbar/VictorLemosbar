@@ -5,7 +5,7 @@
 <h2 align="left">About me</h2>
 
 
-<p align="left">💻I´m n technology enthusiast and fascinated by it transformative power<br><br>📚 Constantly learning and improving my skills<br><br>❤ Bringing passion to every project<br><br> 🚀Currently studying to become a Full-Stack Developer</p>
+<p align="left">💻I´m a technology enthusiast and fascinated by it transformative power<br><br>📚 Constantly learning and improving my skills<br><br>❤ Bringing passion to every project<br><br> 🚀Currently studying to become a Full-Stack Developer</p>
 
 ###
 
@@ -29,6 +29,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
+
+<h2 align="left">Technologies</h2>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+</div>
+
 
 ###
 
