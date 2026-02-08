@@ -33,11 +33,14 @@
 </div>
 
 <h2 align="left">Front End</h2>
+<div align="left">
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  height="40" alt="react logo"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  height="40" alt="react logo" />
    <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue logo"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue logo" />
   <img width="12" />
+  </div>
+
 
 
 
