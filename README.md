@@ -56,7 +56,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="express logo"  style="background-color:#1e1e1e" />
+  <img src="https://raw.githubusercontent.com/VictorLemosbar/VictorLemosbar/main/icons/express.svg" height="40" alt="express logo"  />
   <img width="12" />
   
 </div>
