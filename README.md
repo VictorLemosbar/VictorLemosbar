@@ -100,6 +100,9 @@
 
 ###
 
+[Art Landing PAge](https://github.com/VictorLemosbar/landing-page-arte.git)
+
+
 [Sales Analysis](https://github.com/VictorLemosbar/salesAnalysis)
 
 ###
